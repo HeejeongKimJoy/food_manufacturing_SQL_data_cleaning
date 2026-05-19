@@ -3,7 +3,7 @@
 ## Project Overview
 - This project focuses on cleaning and standardizing food manufacturing operational datasets based on **my practical manufacturing experience**.
 - The datasets include Production logs, Downtime records, Warehouse holds, and Customer complaints.
-- Rather than using perfectly structured sample data, the project was built around handling inconsistent and unreliable operational records that commonly found in real manufacturing environments.
+- Rather than using perfectly structured sample data, the project was built around handling inconsistent and unreliable operational records that commonly found in **real manufacturing environments**.
 <br><br>
 
 ## Why This Became a Data Cleaning Project?
