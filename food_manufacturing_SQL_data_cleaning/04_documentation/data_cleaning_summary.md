@@ -8,7 +8,7 @@ The objective was to improve data consistency, preserve raw data integrity, and 
 
 ## 1. Data Standardization
 - Reviewed inconsistent date formats
-- Standardized '/' and '-' formatting using 'STR_TO_DATE' to handle mixed date formats
+- Standardized '/' and '-' formatting using 'STR_TO_DATE()' to handle mixed date formats
 - Preserved unclear date values to avoid data corruption
 
 ## 2. Duplicate Validation
