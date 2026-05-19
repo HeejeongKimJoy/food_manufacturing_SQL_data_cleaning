@@ -1,5 +1,6 @@
 ## Data Cleaning Summary
 This project focused on cleaning and validating datasets used for production, downtime, hold and complaint tracking.
+<br>
 The objective was to improve data consistency, preserve raw data integrity, and prepare analysis-ready for further EDA and Power BI reporting.
 <br><br>
 ## Key Cleaning Tasks
