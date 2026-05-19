@@ -3,6 +3,7 @@ This project focused on cleaning and validating datasets used for production, do
 The objective was to improve data consistency, preserve raw data integrity, and prepare analysis-ready for further EDA and Power BI reporting.
 
 
+
 # Key Cleaning Tasks
 
 ## 1. Data Standardization
