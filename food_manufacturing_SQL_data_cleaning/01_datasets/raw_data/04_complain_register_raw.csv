@@ -1,0 +1,501 @@
+Complain_ID,Complain_category,Product_ID,Product_name,Line_number,Complained_date,Production_date,Complain_reason
+C11132,High,10014,Product_14,Line 1,2025-08-28,2025-08-13,Incorrect product delivered
+C90575,Low,10010,Product_10,Line 2,2025-05-03,2025-04-14,Incorrect product delivered
+C99362,High,10016,Product_16,Line 2,2025-02-16,2025-01-17,Expired product
+C41008,Low,10015,Product_15,Line 4,2025-06-21,2025-06-04,Texture issue
+C16141,High,10014,Product_14,Line 1,2025-12-10,2025-11-17,Expired product
+C59792,Mid,10009,Product_9,Line 3,2026-03-10,2026-02-17,Expired product
+C88949,Mid,10020,Product_20,Line 1,2025-04-26,2025-03-30,Damaged packaging
+C40825,Low,10015,Product_15,Line 1,2025-10-30,2025-10-16,Texture issue
+C78616,Mid,10016,Product_16,Line 3,2026-04-10,2026-03-15,Incorrect product delivered
+C71244,Low,10002,Product_2,Line 2,2025-04-05,2025-03-29,Expired product
+C57997,Mid,10018,Product_18,Line 3,2026-02-10,2026-02-02,Off taste
+C37568,Low,10013,Product_13,Line 2,2025-09-14,2025-09-03,Off taste
+C81284,High,10020,Product_20,Line 4,2025-01-28,2025-01-07,Label missing
+C43257,Mid,10011,Product_11,Line 4,2026-02-07,2026-01-13,Label missing
+C91523,Low,10009,Product_9,Line 4,2025-01-12,2025-01-03,Damaged packaging
+C35965,Mid,10012,Product_12,Line 2,2025-06-26,2025-05-30,Foreign material found
+C16984,Mid,10001,Product_1,Line 3,2026-03-06,2026-02-18,Expired product
+C63691,Low,10016,Product_16,Line 1,2025-08-30,2025-08-17,Texture issue
+C68868,Mid,10009,Product_9,Line 2,2025-04-22,2025-04-15,Texture issue
+C54847,High,10020,Product_20,Line 1,2026-01-21,2025-12-26,Damaged packaging
+C27363,high,10013,Product_13,Line 1,2025-08-18,2025-07-22,Leakage issue
+C33081,High,10019,Product_19,Line 2,2026-02-02,2026-01-26,Texture issue
+C85895,Low,10009,Product_9,Line 2,2026-04-11,2026-03-21,Expired product
+C61975,Mid,10009,Product_9,Line 3,2025-10-11,2025-09-29,Label missing
+C22521,High,10019,Product_19,Line 4,2025-07-29,2025-07-08,Damaged packaging
+C40605,Mid,10013,Product_13,Line 4,2025-10-15,2025-09-17,Label missing
+C17140,Mid,10008,Product_8,Line 2,2025-05-08,2025-04-12,Texture issue
+C64105,Low,10006,Product_6,Line 1,2026-04-14,2026-03-24,Incorrect product delivered
+C29700,Mid,10003,Product_3,Line 3,2026-01-17,2026-01-02,Off taste
+C43009,High,10008,Product_8,Line 4,2025-03-23,2025-02-27,Incorrect product delivered
+C14443,High,10010,Product_10,Line 1,2025-06-16,2025-05-17,Foreign material found
+C63770,Mid,10007,Product_7,Line 1,2025-03-25,2025-02-25,Expired product
+C54804,Mid,10018,Product_18,Line 2,2025-03-29,2025-03-07,Damaged packaging
+C44547,Mid,10015,Product_15,Line 3,2025-06-23,2025-06-06,Texture issue
+C88810,Low,10014,Product_14,Line 1,2026-02-27,2026-02-07,Leakage issue
+C43109,Low,10014,Product_14,Line 2,2025-12-26,2025-12-25,Incorrect product delivered
+C18762,High,10016,Product_16,Line 3,2026-01-09,2025-12-21,Off taste
+C23464,High,10013,Product_13,Line 4,2025-07-13,2025-06-23,Texture issue
+C38213,Mid,10006,Product_6,Line 3,2025-09-01,2025-08-03,Texture issue
+C75279,High,10020,Product_20,Line 4,2025-12-18,2025-11-23,Label missing
+C61456,Mid,10013,Product_13,Line 2,2025-06-19,2025-06-14,Incorrect product delivered
+C84193,Low,10018,Product_18,Line 2,2025-05-17,2025-05-15,Foreign material found
+C77082,Low,10007,Product_7,Line 3,2026-02-25,2026-02-09,Texture issue
+C71367,High,10019,Product_19,Line 1,2026-03-14,2026-02-16,Damaged packaging
+C58518,Mid,10014,Product_14,Line 1,2025-11-29,2025-11-21,Label missing
+C67496,Mid,10008,Product_8,Line 4,2025-09-26,2025-09-12,Foreign material found
+C80163,High,10015,Product_15,Line 3,2025-08-30,2025-08-20,Incorrect product delivered
+C46939,High,10009,Product_9,Line 1,2025-03-19,2025-03-14,Damaged packaging
+C91140,High,10014,Product_14,Line 3,2025-11-26,2025-11-23,Off taste
+C19135,Mid,10009,Product_9,Line 3,2026-03-11,2026-03-08,Label missing
+C57040,Mid,10014,Product_14,Line 1,2025-09-02,2025-08-16,Off taste
+C43094,Low,10004,Product_4,Line 2,2026-01-05,2025-12-28,Label missing
+C48515,Mid,10009,Product_9,Line 2,2026-01-26,2026-01-15,Label missing
+C86691,Mid,10012,Product_12,Line 4,2025-04-05,2025-03-26,Incorrect product delivered
+C53413,mid,10017,Product_17,Line 1,2025-09-29,2025-09-24,Incorrect product delivered
+C11390,High,10011,Product_11,Line 2,2026-03-12,2026-04-08,Leakage issue
+C17105,Mid,10013,Product_13,Line 1,2025-07-17,2025-06-29,Expired product
+C55149,Mid,10002,Product_2,Line 3,2025-09-04,2025-08-30,Foreign material found
+C19072,Mid,10016,Product_16,Line 3,2025-01-12,2025-01-04,Leakage issue
+C73753,Low,10018,Product_18,Line 3,2025-02-13,2025-01-22,Off taste
+C67731,Low,10003,Product_3,Line 3,2025-08-29,2025-08-26,Incorrect product delivered
+C41862,High,10007,Product_7,Line 1,2025-07-01,2025-06-22,Label missing
+C96033,Low,10013,Product_13,Line 3,2025-02-10,2025-02-03,Leakage issue
+C24611,High,10003,Product_3,Line 1,2025-07-23,2025-07-04,Expired product
+C44504,Mid,10018,Product_18,Line 4,2025-05-21,2025-05-17,Label missing
+C53823,High,10016,Product_16,Line 4,2025-07-21,2025-07-10,Damaged packaging
+C58817,Mid,10006,Product_6,Line 4,2025-07-29,2025-07-12,Label missing
+C21560,Mid,10006,Product_6,Line 1,2025-06-04,2025-05-06,Incorrect product delivered
+C29435,High,10005,Product_5,Line 2,2025-12-28,2025-12-11,Damaged packaging
+C74443,Low,10007,Product_7,Line 2,2025-01-24,2025-01-01,Texture issue
+C10108,Mid,10015,Product_15,Line 4,2025-11-30,2025-11-26,Texture issue
+C53235,High,10002,Product_2,Line 3,2026-01-04,2025-12-26,Incorrect product delivered
+C34383,Mid,10012,Product_12,Line 4,2026-03-25,2026-03-10,Off taste
+C34351,Low,10016,Product_16,Line 4,2025-02-12,2025-01-23,Incorrect product delivered
+C21435,Mid,10017,Product_17,Line 1,2025-05-20,2025-05-06,Foreign material found
+C12701,Low,10007,Product_7,Line 2,2025-04-07,2025-03-27,Texture issue
+C66504,Low,10006,Product_6,Line 1,2025-04-17,2025-03-22,Damaged packaging
+C53228,Low,10002,Product_2,Line 4,2025-03-15,2025-02-25,Incorrect product delivered
+C12018,Mid,10006,Product_6,Line 2,2025-05-23,2025-05-03,Off taste
+C10184,High,10016,Product_16,Line 1,2025-03-22,2025-03-09,Expired product
+C58591,High,10006,Product_6,Line 4,2025-03-19,2025-02-26,Off taste
+C32506,Mid,10002,Product_2,Line 2,2025-11-11,2025-10-15,Damaged packaging
+C37114,Mid,10009,Product_9,Line 3,2025-09-29,2025-09-04,Damaged packaging
+C31616,Mid,10002,Product_2,Line 4,2025-10-24,2025-10-02,Texture issue
+C97282,Mid,10017,Product_17,Line 2,2025-07-02,2025-06-26,Expired product
+C15028,Mid,10001,Product_1,Line 2,2025-12-11,2025-11-17,Damaged packaging
+C55800,Mid,10004,Product_4,Line 1,2026-01-07,2025-12-09,Damaged packaging
+C82435,Mid,10017,Product_17,Line 1,2026-04-04,2026-03-28,Texture issue
+C75665,Low,10013,Product_13,Line 3,2026-01-15,2025-12-21,Foreign material found
+C59174,High,10016,Product_16,Line 4,2025-08-30,2025-08-11,Incorrect product delivered
+C16554,Mid,10012,Product_12,Line 3,2025-03-13,2025-02-18,Foreign material found
+C88487,mid,10019,Product_19,Line 2,2026-04-09,2026-03-23,Expired product
+C20833,High,10013,Product_13,Line 2,2026-04-14,2026-03-21,Texture issue
+C41598,Mid,10010,Product_10,Line 4,2025-03-29,2025-03-28,Label missing
+C40756,Mid,10012,Product_12,Line 1,2025-06-18,2025-06-03,Texture issue
+C35297,Mid,10015,Product_15,Line 1,2025-07-23,2025-08-01,Label missing
+C68917,Mid,10019,Product_19,Line 2,2025-09-06,2025-08-29,Damaged packaging
+C71534,Mid,10018,Product_18,Line 2,2026-03-15,2026-02-19,Incorrect product delivered
+C52067,High,10002,Product_2,Line 2,2025-05-28,2025-05-18,Label missing
+C49749,Mid,10010,Product_10,Line 3,2026-01-30,2026-01-15,Label missing
+C11240,Mid,10010,Product_10,Line 1,2026-02-11,2026-01-26,Leakage issue
+C91744,Mid,10011,Product_11,Line 3,2025-06-29,2025-06-28,Incorrect product delivered
+C48215,Mid,10002,Product_2,Line 3,2025-09-14,2025-08-27,Label missing
+C94613,Mid,10013,Product_13,Line 4,2025-04-28,2025-04-03,Leakage issue
+C40252,Mid,10009,Product_9,Line 4,2025-03-03,2025-02-24,Label missing
+C78074,Low,10013,Product_13,Line 4,2025-05-26,2025-05-10,Label missing
+C63991,Mid,10006,Product_6,Line 4,2025-10-08,2025-09-20,Texture issue
+C61757,High,10004,Product_4,Line 2,2025-02-27,2025-02-19,Leakage issue
+C56512,High,10019,Product_19,Line 2,2025-07-05,2025-06-13,Leakage issue
+C83486,Mid,10001,Product_1,Line 3,2025-11-06,2025-10-12,Expired product
+C23608,High,10003,Product_3,Line 3,2025-04-10,2025-03-30,Foreign material found
+C34438,Mid,10007,Product_7,Line 1,2025-09-14,2025-08-31,Damaged packaging
+C12353,Low,10009,Product_9,Line 2,2025-08-15,2025-07-19,Damaged packaging
+C95831,Mid,10012,Product_12,Line 1,2025-01-23,2025-01-01,Leakage issue
+C48263,Low,10001,Product_1,Line 3,2025-12-23,2025-12-29,Incorrect product delivered
+C98786,Mid,10018,Product_18,Line 4,2025-07-25,2025-07-11,Leakage issue
+C15426,High,10019,Product_19,Line 2,2025-09-01,2025-08-02,Incorrect product delivered
+C17354,Mid,10013,Product_13,Line 4,2026-04-07,2026-03-24,Incorrect product delivered
+C11064,Mid,10019,Product_19,Line 4,2025-07-26,2025-07-12,Incorrect product delivered
+C24411,High,10008,Product_8,Line 4,2026-02-17,2026-02-06,Foreign material found
+C17356,Mid,10005,Product_5,Line 3,2025-03-16,2025-03-14,Leakage issue
+C56221,High,10010,Product_10,Line 3,2025-02-06,2025-01-19,Expired product
+C55098,High,10004,Product_4,Line 1,2025-05-04,2025-04-22,Label missing
+C21347,Mid,10003,Product_3,Line 4,2025-09-05,2025-08-10,Incorrect product delivered
+C89391,Low,10008,Product_8,Line 4,2025-07-08,2025-06-17,Off taste
+C37799,Mid,10008,Product_8,Line 2,2025-05-11,2025-04-26,Label missing
+C76244,Mid,10020,Product_20,Line 3,2025-09-27,2025-09-08,Foreign material found
+C91037,Mid,10001,Product_1,Line 2,2025-10-02,2025-09-11,Foreign material found
+C50128,Mid,10020,Product_20,Line 2,2025-09-06,2025-08-29,Incorrect product delivered
+C75589,Mid,10016,Product_16,Line 3,2025-04-13,2025-04-01,Damaged packaging
+C67504,Mid,10019,Product_19,Line 3,2026-02-07,2026-02-02,Expired product
+C17552,Mid,10006,Product_6,Line 1,2025-03-27,2025-03-10,Incorrect product delivered
+C59661,High,10008,Product_8,Line 1,2025-09-29,2025-09-02,Incorrect product delivered
+C51257,High,10006,Product_6,Line 3,2025-02-06,2025-01-20,Expired product
+C44119,High,10002,Product_2,Line 2,2025-12-17,2025-11-19,Label missing
+C21895,Mid,10008,Product_8,Line 3,2026-02-11,2026-02-10,Texture issue
+C78245,HIGH,10020,Product_20,Line 3,2026-03-18,2026-02-20,Off taste
+C31200,Mid,10001,Product_1,Line 1,2025-04-26,2025-05-17,Damaged packaging
+C99646,mid,10010,Product_10,Line 1,2025-04-30,2025-04-03,Foreign material found
+C56467,High,10006,Product_6,Line 4,2025-09-07,2025-08-10,Expired product
+C10490,Mid,10013,Product_13,Line 4,2025-09-20,2025-09-08,Off taste
+C52863,Mid,10014,Product_14,Line 1,2025-05-12,2025-04-28,Off taste
+C25719,High,10014,Product_14,Line 4,2026-03-29,2026-03-09,Label missing
+C43125,mid,10018,Product_18,Line 2,2025-07-14,2025-06-21,Damaged packaging
+C20080,Mid,10012,Product_12,Line 2,2025-07-14,2025-07-11,Incorrect product delivered
+C16940,Mid,10016,Product_16,Line 1,2025-07-21,2025-07-20,Texture issue
+C43818,Mid,10015,Product_15,Line 3,2026-02-21,2026-02-06,Texture issue
+C14261,Mid,10015,Product_15,Line 4,2025-07-19,2025-06-19,Incorrect product delivered
+C36677,Low,10014,Product_14,Line 2,2025-07-25,2025-07-21,Damaged packaging
+C58047,Mid,10018,Product_18,Line 2,2025-09-02,2025-08-13,Leakage issue
+C99969,Mid,10005,Product_5,Line 2,2025-09-05,2025-08-20,Expired product
+C69974,Low,10002,Product_2,Line 4,2025-11-03,2025-10-31,Expired product
+C80192,Low,10013,Product_13,Line 3,2025-04-12,2025-03-16,Damaged packaging
+C33204,Low,10008,Product_8,Line 4,2025-09-20,2025-09-08,Expired product
+C20064,Mid,10010,Product_10,Line 1,2025-04-22,2025-04-16,Incorrect product delivered
+C30933,High,10015,Product_15,Line 1,2026-01-20,2026-01-16,Incorrect product delivered
+C77985,Mid,10019,Product_19,Line 3,2025-07-17,2025-07-10,Expired product
+C73328,Mid,10001,Product_1,Line 2,2025-04-14,2025-03-26,Foreign material found
+C27471,High,10001,Product_1,Line 4,2026-04-18,2026-03-25,Texture issue
+C39350,Low,10011,Product_11,Line 4,2026-04-22,2026-03-24,Label missing
+C86718,Low,10001,Product_1,Line 2,2025-08-04,2025-07-15,Expired product
+C76271,High,10011,Product_11,Line 4,2026-02-26,2026-02-20,Leakage issue
+C20702,Mid,10019,Product_19,Line 1,2026-04-06,2026-03-15,Texture issue
+C94405,Mid,10004,Product_4,Line 3,2026-03-16,2026-03-15,Foreign material found
+C44378,Low,10020,Product_20,Line 3,2026-02-20,2026-02-04,Damaged packaging
+C56242,high,10011,Product_11,Line 1,2025-04-10,2025-04-09,Off taste
+C16837,Mid,10010,Product_10,Line 4,2025-08-02,2025-07-19,Expired product
+C32315,Low,10014,Product_14,Line 4,2026-03-30,2026-03-24,Label missing
+C33221,High,10001,Product_1,Line 2,2025-10-17,2025-10-11,Damaged packaging
+C60887,Mid,10011,Product_11,Line 4,2025-11-17,2025-10-18,Label missing
+C90735,Mid,10004,Product_4,Line 2,2026-04-09,2026-03-31,Incorrect product delivered
+C50572,Mid,10016,Product_16,Line 4,2025-07-24,2025-07-06,Texture issue
+C98089,mid,10006,Product_6,Line 4,2025-04-06,2025-03-27,Texture issue
+C17945,Mid,10007,Product_7,Line 1,2025-07-02,2025-06-08,Expired product
+C73324,Mid,10008,Product_8,Line 2,2025-10-11,2025-10-07,Damaged packaging
+C95222,Mid,10015,Product_15,Line 1,2025-08-14,2025-08-25,Off taste
+C23669,Low,10009,Product_9,Line 2,2025-03-12,2025-02-21,Expired product
+C55054,Mid,10006,Product_6,Line 4,2026-02-21,2026-02-15,Off taste
+C42472,Low,10019,Product_19,Line 1,2025-10-01,2025-09-24,Expired product
+C55430,high,10017,Product_17,Line 1,2025-04-07,2025-03-12,Off taste
+C57317,Mid,10007,Product_7,Line 3,2025-11-04,2025-10-08,Label missing
+C14904,Mid,10008,Product_8,Line 2,2025-03-28,2025-03-13,Expired product
+C16045,Mid,10011,Product_11,Line 2,2025-04-28,2025-04-23,Off taste
+C57601,Low,10001,Product_1,Line 4,2026-02-01,2026-01-20,Label missing
+C43943,High,10009,Product_9,Line 3,2025-12-19,2025-11-22,Leakage issue
+C74213,High,10003,Product_3,Line 3,2026-03-10,2026-03-04,Foreign material found
+C75725,Mid,10006,Product_6,Line 3,2025-05-29,2025-05-26,Leakage issue
+C28483,High,10012,Product_12,Line 2,2025-10-19,2025-09-19,Leakage issue
+C20069,Low,10017,Product_17,Line 1,2025-09-23,2025-08-28,Label missing
+C87489,High,10019,Product_19,Line 2,2025-08-11,2025-08-05,Leakage issue
+C17227,Low,10020,Product_20,Line 1,2025-10-10,2025-09-28,Damaged packaging
+C44101,Mid,10005,Product_5,Line 2,2025-09-02,2025-08-26,Off taste
+C74127,mid,10010,Product_10,Line 3,2026-04-02,2026-03-18,Texture issue
+C72844,Low,10010,Product_10,Line 1,2026-04-11,2026-03-17,Foreign material found
+C38945,High,10010,Product_10,Line 2,2025-04-30,2025-04-19,Expired product
+C18961,Mid,10006,Product_6,Line 2,2025-05-03,2025-05-02,Label missing
+C82110,Mid,10014,Product_14,Line 1,2025-04-14,2025-04-03,Texture issue
+C26352,Low,10020,Product_20,Line 3,2025-02-04,2025-01-22,Incorrect product delivered
+C14346,Mid,10018,Product_18,Line 4,2025-07-12,2025-06-13,Incorrect product delivered
+C60596,Low,10016,Product_16,Line 2,2025-02-20,2025-01-30,Texture issue
+C32486,mid,10012,Product_12,Line 4,2025-06-29,2025-06-27,Foreign material found
+C28288,High,10018,Product_18,Line 3,2025-11-07,2025-10-30,Texture issue
+C36307,Mid,10016,Product_16,Line 1,2025-02-27,2025-01-30,Off taste
+C95153,Mid,10012,Product_12,Line 1,2025-10-13,2025-10-03,Off taste
+C88149,high,10009,Product_9,Line 4,2025-03-13,2025-02-20,Leakage issue
+C56463,Low,10008,Product_8,Line 4,2025-05-16,2025-04-29,Foreign material found
+C65824,Low,10015,Product_15,Line 4,2025-09-02,2025-08-17,Leakage issue
+C23226,Mid,10008,Product_8,Line 4,2026-03-27,2026-03-16,Texture issue
+C44233,High,10019,Product_19,Line 1,2025-04-03,2025-03-13,Leakage issue
+C13933,Low,10002,Product_2,Line 4,2025-06-12,2025-06-08,Foreign material found
+C51956,Mid,10001,Product_1,Line 3,2026-03-31,2026-03-09,Leakage issue
+C22313,HIGH,10002,Product_2,Line 4,2025-12-12,2025-11-18,Texture issue
+C82668,Mid,10006,Product_6,Line 2,2025-06-27,2025-06-19,Texture issue
+C12245,Mid,10015,Product_15,Line 2,2025-10-28,2025-10-10,Label missing
+C15782,Mid,10008,Product_8,Line 2,2025-07-08,2025-07-02,Leakage issue
+C28938,High,10002,Product_2,Line 4,2025-03-02,2025-02-20,Label missing
+C74233,High,10005,Product_5,Line 3,2025-04-19,2025-04-04,Damaged packaging
+C63881,Low,10001,Product_1,Line 4,2026-03-03,2026-02-01,Leakage issue
+C62207,Low,10017,Product_17,Line 3,2025-03-14,2025-02-24,Expired product
+C60354,Mid,10009,Product_9,Line 3,2025-01-30,2025-01-16,Label missing
+C84228,High,10016,Product_16,Line 2,2025-02-22,2025-02-16,Foreign material found
+C67032,Mid,10013,Product_13,Line 1,2025-11-25,2025-11-20,Damaged packaging
+C32521,High,10009,Product_9,Line 4,2025-07-28,2025-07-09,Incorrect product delivered
+C13227,Mid,10007,Product_7,Line 4,2025-02-23,2025-02-10,Off taste
+C23303,Low,10002,Product_2,Line 2,2025-02-19,2025-02-18,Leakage issue
+C59178,Mid,10018,Product_18,Line 4,2025-06-01,2025-05-08,Incorrect product delivered
+C54572,Mid,10005,Product_5,Line 3,2025-06-25,2025-06-24,Expired product
+C18039,Mid,10011,Product_11,Line 1,2026-02-01,2026-01-25,Foreign material found
+C82137,High,10017,Product_17,Line 4,2025-02-18,2025-02-13,Foreign material found
+C21495,Low,10012,Product_12,Line 2,2026-03-02,2026-02-26,Incorrect product delivered
+C51148,Mid,10013,Product_13,Line 4,2026-01-19,2026-01-18,Leakage issue
+C96805,Mid,10012,Product_12,Line 3,2025-05-09,2025-04-29,Leakage issue
+C82788,High,10011,Product_11,Line 1,2026-04-04,2026-03-05,Off taste
+C19678,Mid,10012,Product_12,Line 2,2025-10-24,2025-10-11,Foreign material found
+C16891,High,10013,Product_13,Line 2,2025-08-05,2025-08-04,Off taste
+C47118,Low,10010,Product_10,Line 4,2025-03-02,2025-02-26,Texture issue
+C24970,Mid,10001,Product_1,Line 2,2025-07-31,2025-07-01,Damaged packaging
+C92534,Mid,10009,Product_9,Line 3,2025-11-13,2025-10-14,Texture issue
+C41147,Mid,10011,Product_11,Line 1,2026-01-02,2025-12-04,Label missing
+C56665,Mid,10005,Product_5,Line 2,2025-04-06,2025-03-22,Off taste
+C25510,Mid,10016,Product_16,Line 3,2025-05-22,2025-04-22,Texture issue
+C73846,High,10020,Product_20,Line 2,2025-05-21,2025-05-11,Texture issue
+C61101,Mid,10019,Product_19,Line 2,2025-03-24,2025-03-05,Incorrect product delivered
+C58794,Low,10008,Product_8,Line 2,2025-11-16,2025-11-12,Expired product
+C21167,Low,10005,Product_5,Line 1,2025-11-18,2025-10-20,Expired product
+C95937,Mid,10020,Product_20,Line 3,2025-09-20,2025-09-09,Foreign material found
+C85621,Mid,10002,Product_2,Line 4,2025-03-28,2025-03-13,Expired product
+C86829,Low,10002,Product_2,Line 4,2025-05-08,2025-04-25,Expired product
+C70440,High,10003,Product_3,Line 4,2025-11-20,2025-11-09,Foreign material found
+C27602,Mid,10001,Product_1,Line 2,2025-07-14,2025-06-26,Expired product
+C17882,High,10010,Product_10,Line 3,2025-07-19,2025-07-10,Damaged packaging
+C35725,Mid,10010,Product_10,Line 3,2025-08-18,2025-07-19,Damaged packaging
+C53437,Mid,10020,Product_20,Line 3,2025-08-13,2025-07-28,Foreign material found
+C77383,Mid,10002,Product_2,Line 4,2025-10-07,2025-09-15,Expired product
+C56573,Mid,10007,Product_7,Line 4,2025-12-05,2025-11-11,Leakage issue
+C32236,Low,10003,Product_3,Line 1,2026-03-15,2026-02-23,Leakage issue
+C70451,Mid,10020,Product_20,Line 4,2026-03-27,2026-03-20,Damaged packaging
+C31349,Mid,10010,Product_10,Line 1,2026-02-01,2026-01-13,Expired product
+C37447,High,10018,Product_18,Line 1,2025-01-24,2025-01-21,Damaged packaging
+C37482,Low,10008,Product_8,Line 2,2025-09-10,2025-08-25,Off taste
+C49061,High,10019,Product_19,Line 3,2025-11-11,2025-10-14,Leakage issue
+C12777,Low,10012,Product_12,Line 4,2025-10-10,2025-09-21,Expired product
+C94602,Mid,10008,Product_8,Line 4,2026-03-31,2026-03-14,Expired product
+C84092,Mid,10010,Product_10,Line 4,2026-03-22,2026-03-19,Foreign material found
+C10922,Low,10016,Product_16,Line 3,2025-07-28,2025-07-15,Label missing
+C94871,Mid,10013,Product_13,Line 2,2025-10-20,2025-10-13,Label missing
+C57421,High,10020,Product_20,Line 2,2025-03-29,2025-03-24,Leakage issue
+C66340,Mid,10016,Product_16,Line 4,2025-03-07,2025-03-05,Leakage issue
+C68367,Low,10006,Product_6,Line 4,2026-01-23,2026-01-04,Expired product
+C57661,Mid,10002,Product_2,Line 4,2025-02-14,2025-02-13,Label missing
+C61762,Mid,10020,Product_20,Line 3,2025-03-19,2025-02-18,Incorrect product delivered
+C70876,Mid,10001,Product_1,Line 3,2025-09-06,2025-08-27,Foreign material found
+C51125,Mid,10007,Product_7,Line 1,2026-01-21,2026-01-06,Damaged packaging
+C32539,Mid,10007,Product_7,Line 4,2025-03-31,2025-03-17,Damaged packaging
+C40863,High,10002,Product_2,Line 2,2026-03-02,2026-02-07,Foreign material found
+C10615,Low,10007,Product_7,Line 4,2025-07-30,2025-07-17,Foreign material found
+C91312,Mid,10016,Product_16,Line 4,2025-12-27,2025-12-10,Damaged packaging
+C27187,High,10006,Product_6,Line 2,2026-03-25,2026-04-24,Off taste
+C39981,Mid,10001,Product_1,Line 1,2025-02-14,2025-01-19,Off taste
+C21786,Low,10005,Product_5,Line 1,2025-07-31,2025-07-06,Foreign material found
+C64078,Mid,10005,Product_5,Line 1,2025-01-29,2025-01-17,Label missing
+C78394,High,10017,Product_17,Line 3,2026-01-14,2025-12-17,Leakage issue
+C47637,Mid,10010,Product_10,Line 4,2025-02-05,2025-01-24,Leakage issue
+C42084,Low,10009,Product_9,Line 3,2025-01-19,2025-01-16,Off taste
+C94543,High,10009,Product_9,Line 4,2025-10-05,2025-09-25,Damaged packaging
+C27967,Mid,10006,Product_6,Line 1,2025-02-02,2025-01-18,Incorrect product delivered
+C63440,Mid,10012,Product_12,Line 3,2025-07-27,2025-07-11,Incorrect product delivered
+C72656,Mid,10018,Product_18,Line 2,2025-02-06,2025-01-21,Foreign material found
+C15479,Mid,10017,Product_17,Line 2,2025-11-24,2025-10-29,Damaged packaging
+C98463,Mid,10006,Product_6,Line 3,2025-02-07,2025-01-31,Damaged packaging
+C78040,Low,10007,Product_7,Line 2,2025-06-03,2025-05-24,Incorrect product delivered
+C99994,mid,10011,Product_11,Line 4,2025-08-24,2025-08-08,Label missing
+C65985,Low,10009,Product_9,Line 2,2025-03-23,2025-02-27,Expired product
+C59842,Mid,10008,Product_8,Line 1,2025-11-02,2025-10-05,Label missing
+C80978,Mid,10020,Product_20,Line 3,2025-04-01,2025-03-28,Leakage issue
+C73857,High,10004,Product_4,Line 2,2025-02-08,2025-01-30,Foreign material found
+C40132,Mid,10004,Product_4,Line 1,2025-10-31,2025-10-12,Leakage issue
+C57888,Mid,10004,Product_4,Line 4,2025-07-20,2025-07-02,Foreign material found
+C78624,High,10014,Product_14,Line 3,2025-04-06,2025-03-27,Off taste
+C63902,Mid,10015,Product_15,Line 3,2025-12-31,2025-12-16,Foreign material found
+C45000,High,10015,Product_15,Line 1,2025-02-08,2025-01-29,Texture issue
+C28765,Mid,10001,Product_1,Line 3,2025-05-25,2025-05-22,Leakage issue
+C44204,Mid,10010,Product_10,Line 1,2025-05-01,2025-04-19,Texture issue
+C38146,Mid,10007,Product_7,Line 4,2026-01-13,2025-12-28,Expired product
+C32451,High,10003,Product_3,Line 2,2025-10-09,2025-09-26,Expired product
+C36379,Mid,10013,Product_13,Line 2,2026-01-12,2025-12-26,Incorrect product delivered
+C48095,Mid,10008,Product_8,Line 3,2025-06-05,2025-05-10,Off taste
+C57785,Mid,10017,Product_17,Line 3,2026-01-27,2026-01-04,Off taste
+C83210,Mid,10016,Product_16,Line 3,2025-05-15,2025-04-20,Label missing
+C56739,High,10005,Product_5,Line 4,2025-08-08,2025-07-14,Expired product
+C90622,High,10013,Product_13,Line 4,2026-01-04,2025-12-11,Incorrect product delivered
+C40946,High,10008,Product_8,Line 2,2025-12-16,2025-12-18,Incorrect product delivered
+C45209,High,10012,Product_12,Line 3,2025-05-10,2025-04-23,Incorrect product delivered
+C43914,Mid,10020,Product_20,Line 4,2025-03-07,2025-02-22,Texture issue
+C39950,High,10008,Product_8,Line 1,2025-02-15,2025-01-20,Label missing
+C39630,Mid,10018,Product_18,Line 1,2025-06-13,2025-05-20,Damaged packaging
+C17943,High,10013,Product_13,Line 2,2025-11-22,2025-10-26,Leakage issue
+C20973,Mid,10001,Product_1,Line 4,2025-03-10,2025-02-24,Leakage issue
+C83035,Mid,10002,Product_2,Line 1,2025-05-25,2025-05-23,Foreign material found
+C50582,Low,10012,Product_12,Line 2,2025-05-16,2025-04-28,Texture issue
+C32448,Mid,10017,Product_17,Line 3,2025-10-15,2025-09-23,Texture issue
+C46403,Low,10012,Product_12,Line 3,2026-01-29,2026-01-25,Label missing
+C67669,Mid,10018,Product_18,Line 1,2025-04-18,2025-04-17,Foreign material found
+C85702,Mid,10009,Product_9,Line 4,2025-07-30,2025-07-12,Leakage issue
+C24734,Mid,10010,Product_10,Line 2,2025-07-03,2025-06-29,Texture issue
+C97413,Low,10003,Product_3,Line 1,2025-05-10,2025-04-26,Incorrect product delivered
+C45394,High,10011,Product_11,Line 3,2026-01-21,2026-01-06,Damaged packaging
+C57844,Low,10001,Product_1,Line 2,2026-01-18,2026-01-17,Expired product
+C59451,Mid,10011,Product_11,Line 4,2025-03-31,2025-03-06,Leakage issue
+C24683,Low,10020,Product_20,Line 3,2026-03-19,2026-03-17,Incorrect product delivered
+C80464,Mid,10010,Product_10,Line 3,2025-08-31,2025-08-01,Incorrect product delivered
+C36467,Mid,10013,Product_13,Line 2,2026-01-06,2025-12-27,Leakage issue
+C18378,High,10017,Product_17,Line 1,2026-02-19,2026-01-30,Incorrect product delivered
+C70472,High,10005,Product_5,Line 3,2025-12-25,2025-12-06,Off taste
+C65012,Mid,10003,Product_3,Line 1,2026-03-25,2026-03-22,Texture issue
+C20294,Mid,10009,Product_9,Line 3,2025-02-26,2025-02-25,Expired product
+C35639,Mid,10006,Product_6,Line 3,2025-11-27,2025-11-23,Label missing
+C72429,Mid,10009,Product_9,Line 3,2025-12-20,2025-11-28,Off taste
+C48726,HIGH,10007,Product_7,Line 2,2025-03-15,2025-03-10,Incorrect product delivered
+C66213,High,10004,Product_4,Line 1,2026-04-07,2026-03-09,Leakage issue
+C61767,Mid,10006,Product_6,Line 3,2025-04-03,2025-03-15,Texture issue
+C97720,Mid,10004,Product_4,Line 2,2025-05-18,2025-04-26,Damaged packaging
+C39375,High,10010,Product_10,Line 2,2026-04-11,2026-03-17,Label missing
+C29877,Mid,10017,Product_17,Line 1,2025-07-14,2025-06-28,Foreign material found
+C10770,High,10009,Product_9,Line 2,2025-12-07,2025-11-27,Expired product
+C55256,Low,10017,Product_17,Line 2,2026-02-10,2026-01-16,Label missing
+C96023,Mid,10007,Product_7,Line 3,2026-01-29,2026-01-25,Off taste
+C52505,Low,10003,Product_3,Line 2,2025-05-04,2025-04-20,Foreign material found
+C17101,High,10006,Product_6,Line 2,2025-08-12,2025-07-15,Texture issue
+C21753,High,10008,Product_8,Line 3,2025-01-07,2025-01-05,Label missing
+C28142,Mid,10002,Product_2,Line 1,2025-10-19,2025-09-26,Off taste
+C25742,Mid,10003,Product_3,Line 2,2025-07-17,2025-06-25,Texture issue
+C34011,Mid,10016,Product_16,Line 1,2025-10-06,2025-09-12,Incorrect product delivered
+C95889,Mid,10003,Product_3,Line 3,2025-08-31,2025-08-24,Foreign material found
+C92022,High,10017,Product_17,Line 2,2025-01-15,2025-01-08,Expired product
+C52605,Low,10019,Product_19,Line 2,2026-01-04,2025-12-12,Expired product
+C84104,Low,10018,Product_18,Line 4,2025-12-05,2025-11-21,Foreign material found
+C27699,Mid,10002,Product_2,Line 2,2025-09-02,2025-08-09,Incorrect product delivered
+C77175,Mid,10007,Product_7,Line 3,2025-05-20,2025-05-10,Damaged packaging
+C18419,Low,10015,Product_15,Line 4,2025-04-08,2025-03-15,Damaged packaging
+C40539,High,10018,Product_18,Line 3,2025-09-19,2025-09-10,Texture issue
+C78893,Mid,10014,Product_14,Line 1,2025-08-10,2025-07-12,Label missing
+C58470,High,10018,Product_18,Line 4,2025-05-31,2025-05-10,Expired product
+C17995,Low,10010,Product_10,Line 3,2026-01-12,2025-12-24,Expired product
+C75680,Mid,10014,Product_14,Line 2,2025-10-04,2025-09-26,Foreign material found
+C42025,High,10018,Product_18,Line 1,2026-01-06,2025-12-18,Expired product
+C74378,High,10001,Product_1,Line 4,2025-05-12,2025-05-08,Foreign material found
+C20109,High,10020,Product_20,Line 4,2026-04-04,2026-03-20,Texture issue
+C22831,mid,10002,Product_2,Line 2,2025-11-10,2025-11-05,Off taste
+C45101,Mid,10015,Product_15,Line 2,2025-03-31,2025-03-20,Damaged packaging
+C82720,Mid,10009,Product_9,Line 2,2025-12-21,2025-12-14,Label missing
+C78984,Mid,10002,Product_2,Line 4,2025-10-17,2025-10-05,Off taste
+C65475,Mid,10013,Product_13,Line 1,2026-03-13,2026-02-21,Foreign material found
+C48920,Low,10014,Product_14,Line 1,2025-07-11,2025-06-16,Expired product
+C17168,Low,10019,Product_19,Line 1,2025-07-31,2025-07-28,Incorrect product delivered
+C25844,Low,10016,Product_16,Line 2,2025-11-23,2025-11-14,Label missing
+C31414,Low,10005,Product_5,Line 1,2025-03-12,2025-02-18,Leakage issue
+C24067,mid,10010,Product_10,Line 4,2026-01-01,2025-12-25,Off taste
+C70067,Low,10014,Product_14,Line 1,2026-03-04,2026-02-08,Label missing
+C84101,High,10001,Product_1,Line 1,2025-10-15,2025-10-05,Off taste
+C56569,Mid,10004,Product_4,Line 1,2026-03-05,2026-02-17,Label missing
+C84599,Mid,10020,Product_20,Line 4,2025-08-08,2025-07-15,Foreign material found
+C83474,High,10010,Product_10,Line 4,2025-07-23,2025-07-14,Incorrect product delivered
+C32510,Mid,10006,Product_6,Line 2,2025-03-17,2025-03-04,Damaged packaging
+C97687,mid,10020,Product_20,Line 4,2025-04-29,2025-04-02,Off taste
+C55508,Low,10015,Product_15,Line 3,2025-06-19,2025-05-25,Incorrect product delivered
+C65483,Mid,10020,Product_20,Line 1,2026-01-24,2026-01-21,Foreign material found
+C63600,Mid,10012,Product_12,Line 1,2025-12-30,2025-12-09,Texture issue
+C95807,Low,10011,Product_11,Line 2,2026-01-29,2026-02-25,Damaged packaging
+C89848,Mid,10002,Product_2,Line 3,2025-12-08,2025-11-18,Foreign material found
+C57297,High,10019,Product_19,Line 4,2025-07-07,2025-06-25,Leakage issue
+C76499,Mid,10007,Product_7,Line 2,2026-01-07,2025-12-27,Leakage issue
+C90153,Mid,10018,Product_18,Line 4,2026-01-15,2025-12-28,Incorrect product delivered
+C91951,Mid,10006,Product_6,Line 4,2025-10-04,2025-09-26,Leakage issue
+C57219,Low,10001,Product_1,Line 4,2025-12-17,2025-11-25,Incorrect product delivered
+C74621,Mid,10018,Product_18,Line 2,2025-09-18,2025-08-26,Leakage issue
+C72953,Low,10017,Product_17,Line 2,2025-11-20,2025-10-28,Foreign material found
+C23487,HIGH,10018,Product_18,Line 2,2026-03-16,2026-02-25,Foreign material found
+C16715,Mid,10006,Product_6,Line 1,2025-01-27,2025-01-18,Label missing
+C89886,Mid,10011,Product_11,Line 3,2026-02-14,2026-01-24,Texture issue
+C49517,Low,10019,Product_19,Line 2,2025-07-02,2025-06-09,Incorrect product delivered
+C13625,High,10003,Product_3,Line 1,2025-10-20,2025-10-18,Leakage issue
+C60114,Low,10013,Product_13,Line 1,2025-02-16,2025-01-24,Expired product
+C13852,Mid,10015,Product_15,Line 2,2026-02-09,2026-01-27,Leakage issue
+C20425,Mid,10009,Product_9,Line 4,2025-03-03,2025-02-12,Leakage issue
+C69387,High,10001,Product_1,Line 1,2026-02-18,2026-02-03,Damaged packaging
+C55953,Low,10008,Product_8,Line 4,2025-08-13,2025-08-03,Texture issue
+C38180,High,10012,Product_12,Line 3,2025-10-28,2025-10-07,Leakage issue
+C62680,Mid,10018,Product_18,Line 1,2026-01-10,2026-01-02,Expired product
+C93326,Mid,10012,Product_12,Line 1,2025-12-08,2025-11-13,Texture issue
+C38419,Mid,10016,Product_16,Line 2,2025-08-22,2025-08-20,Expired product
+C34118,Mid,10005,Product_5,Line 3,2025-09-23,2025-08-30,Damaged packaging
+C98794,Mid,10020,Product_20,Line 4,2026-04-18,2026-03-30,Texture issue
+C81558,Low,10015,Product_15,Line 3,2026-01-30,2026-01-04,Off taste
+C65494,Mid,10007,Product_7,Line 2,2026-02-03,2026-01-26,Texture issue
+C57314,Mid,10011,Product_11,Line 3,2026-03-06,2026-02-06,Damaged packaging
+C52451,Mid,10002,Product_2,Line 2,2026-02-02,2026-01-30,Damaged packaging
+C63949,Mid,10012,Product_12,Line 3,2026-01-18,2026-01-03,Expired product
+C57947,High,10011,Product_11,Line 3,2025-06-18,2025-05-26,Texture issue
+C65108,Mid,10012,Product_12,Line 4,2025-01-22,2025-01-13,Foreign material found
+C35811,Mid,10012,Product_12,Line 2,2025-08-09,2025-08-07,Off taste
+C78322,High,10010,Product_10,Line 2,2025-08-17,2025-08-02,Foreign material found
+C49842,High,10016,Product_16,Line 2,2025-02-24,2025-02-02,Expired product
+C16442,Mid,10004,Product_4,Line 2,2025-12-29,2025-12-12,Expired product
+C47093,High,10001,Product_1,Line 2,2025-02-12,2025-01-24,Leakage issue
+C49243,Mid,10008,Product_8,Line 3,2025-12-16,2025-12-15,Expired product
+C32227,Low,10006,Product_6,Line 4,2025-07-13,2025-06-27,Texture issue
+C98349,High,10020,Product_20,Line 1,2025-07-14,2025-06-30,Label missing
+C89137,High,10017,Product_17,Line 3,2025-07-03,2025-06-09,Damaged packaging
+C82822,mid,10015,Product_15,Line 3,2025-11-01,2025-10-12,Off taste
+C23923,High,10010,Product_10,Line 1,2025-09-16,2025-08-26,Leakage issue
+C60343,High,10003,Product_3,Line 2,2026-01-21,2026-01-06,Texture issue
+C83933,Low,10012,Product_12,Line 3,2026-02-25,2026-01-27,Texture issue
+C84963,Mid,10005,Product_5,Line 1,2025-11-01,2025-10-10,Off taste
+C39155,Low,10003,Product_3,Line 4,2026-03-20,2026-02-28,Leakage issue
+C56493,Low,10005,Product_5,Line 2,2025-04-06,2025-03-28,Foreign material found
+C10202,Mid,10008,Product_8,Line 3,2025-11-09,2025-10-31,Off taste
+C90653,Mid,10009,Product_9,Line 2,2025-05-21,2025-05-17,Expired product
+C19511,High,10014,Product_14,Line 3,2025-10-01,2025-09-09,Texture issue
+C15853,Mid,10016,Product_16,Line 4,2025-12-30,2025-12-16,Label missing
+C94622,High,10011,Product_11,Line 2,2026-03-28,2026-02-26,Damaged packaging
+C29530,Mid,10009,Product_9,Line 3,2025-12-21,2025-12-13,Leakage issue
+C70539,Low,10006,Product_6,Line 3,2026-01-09,2025-12-14,Expired product
+C44177,Low,10009,Product_9,Line 2,2025-03-31,2025-04-18,Incorrect product delivered
+C65380,High,10002,Product_2,Line 1,2026-03-30,2026-03-07,Texture issue
+C56729,Mid,10005,Product_5,Line 1,2025-10-01,2025-09-02,Texture issue
+C71529,Low,10014,Product_14,Line 2,2025-08-27,2025-08-20,Foreign material found
+C85835,Mid,10003,Product_3,Line 4,2026-02-19,2026-02-13,Off taste
+C35030,Mid,10013,Product_13,Line 3,2025-07-03,2025-06-24,Incorrect product delivered
+C40013,Low,10007,Product_7,Line 3,2026-01-11,2025-12-16,Leakage issue
+C15733,Mid,10011,Product_11,Line 4,2026-03-08,2026-02-28,Texture issue
+C62780,Low,10009,Product_9,Line 2,2025-01-09,2025-01-08,Expired product
+C47676,Low,10004,Product_4,Line 2,2025-11-23,2025-11-10,Texture issue
+C57053,High,10015,Product_15,Line 2,2025-02-03,2025-01-21,Label missing
+C77462,Low,10011,Product_11,Line 2,2025-08-20,2025-07-21,Incorrect product delivered
+C79580,High,10004,Product_4,Line 3,2025-04-22,2025-03-27,Texture issue
+C23105,High,10005,Product_5,Line 2,2025-06-26,2025-06-12,Texture issue
+C63568,Mid,10014,Product_14,Line 4,2025-10-12,2025-10-05,Texture issue
+C74549,High,10002,Product_2,Line 1,2025-12-09,2025-12-03,Texture issue
+C35621,Mid,10017,Product_17,Line 3,2025-03-12,2025-02-13,Off taste
+C48608,Mid,10014,Product_14,Line 1,2026-03-13,2026-03-05,Off taste
+C77652,Mid,10001,Product_1,Line 4,2026-02-27,2026-02-07,Texture issue
+C65931,Mid,10020,Product_20,Line 2,2025-09-21,2025-09-20,Foreign material found
+C15578,High,10013,Product_13,Line 1,2025-03-28,2025-03-27,Texture issue
+C67636,High,10017,Product_17,Line 2,2025-04-28,2025-04-17,Expired product
+C16388,Mid,10007,Product_7,Line 2,2025-12-28,2025-12-08,Expired product
+C19934,Mid,10002,Product_2,Line 2,2026-04-15,2026-03-26,Texture issue
+C63671,Mid,10011,Product_11,Line 1,2026-01-10,2025-12-24,Texture issue
+C35428,Mid,10019,Product_19,Line 4,2025-09-21,2025-09-13,Off taste
+C47176,High,10008,Product_8,Line 2,2025-06-01,2025-05-28,Leakage issue
+C18613,High,10014,Product_14,Line 2,2025-09-24,2025-09-03,Damaged packaging
+C59158,Mid,10020,Product_20,Line 2,2026-03-08,2026-02-17,Off taste
+C11548,Mid,10015,Product_15,Line 1,2025-06-15,2025-06-12,Off taste
+C33581,Mid,10013,Product_13,Line 2,2025-01-21,2025-01-17,Incorrect product delivered
+C74634,High,10005,Product_5,Line 1,2026-01-31,2026-01-02,Foreign material found
+C71955,Low,10019,Product_19,Line 3,2026-03-18,2026-02-21,Incorrect product delivered
+C10433,Low,10011,Product_11,Line 4,2025-06-04,2025-05-06,Off taste
+C68037,Mid,10001,Product_1,Line 1,2025-10-01,2025-09-25,Texture issue
+C84940,Low,10014,Product_14,Line 4,2025-06-26,2025-06-20,Leakage issue
+C50410,Mid,10005,Product_5,Line 4,2026-01-24,2025-12-29,Label missing
+C78201,High,10004,Product_4,Line 3,2025-10-04,2025-09-23,Damaged packaging
+C38425,Mid,10013,Product_13,Line 1,2026-02-09,2026-02-08,Foreign material found
+C26933,High,10018,Product_18,Line 4,2025-02-03,2025-01-04,Incorrect product delivered
+C85012,Low,10005,Product_5,Line 2,2025-12-28,2025-12-12,Damaged packaging
+C63707,Mid,10008,Product_8,Line 3,2025-12-03,2025-11-03,Texture issue
+C86640,Mid,10012,Product_12,Line 3,2025-05-08,2025-05-05,Damaged packaging
+C29939,Low,10002,Product_2,Line 1,2025-04-23,2025-04-02,Foreign material found
+C61901,Mid,10019,Product_19,Line 3,2025-12-27,2025-12-15,Texture issue
+C96231,Low,10005,Product_5,Line 4,2025-06-15,2025-05-21,Foreign material found
+C56516,Mid,10008,Product_8,Line 3,2025-07-13,2025-07-04,Leakage issue
+C46100,Mid,10005,Product_5,Line 2,2025-08-18,2025-08-02,Damaged packaging
+C76809,Mid,10011,Product_11,Line 2,2025-07-02,2025-07-09,Leakage issue
+C72444,High,10012,Product_12,Line 1,2025-05-19,2025-05-07,Label missing
+C54759,High,10012,Product_12,Line 3,2025-05-20,2025-04-20,Damaged packaging
+C30744,High,10015,Product_15,Line 3,2025-04-09,2025-03-22,Foreign material found
+C26143,Mid,10001,Product_1,Line 3,2025-08-04,2025-07-17,Foreign material found
+C61529,Mid,10001,Product_1,Line 3,2025-03-28,2025-03-20,Foreign material found
+C23774,Mid,10006,Product_6,Line 3,2025-07-15,2025-06-27,Damaged packaging
+C61210,High,10011,Product_11,Line 1,2025-10-17,2025-10-13,Label missing
+C90348,Mid,10017,Product_17,Line 4,2025-07-10,2025-06-15,Off taste

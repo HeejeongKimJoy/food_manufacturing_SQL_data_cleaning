@@ -1,0 +1,601 @@
+Date,Downtime_ID,Line_number,Shift,Reason,Duration_minutes
+2025-06-19,D43383,Line 1,DS,Changeover delay,192
+2026-03-02,D89463,Line 4,AS,Power interruption,150
+2025-07-28,D44691,Line 4,DS,Maintenance,18
+2026-03-15,D72369,Line 3,DS,Machine breakdown,14
+2026-01-16,D31147,Line 2,NS,Cleaning,115
+2025-02-06,D85949,Line 2,AS,Material shortage,179
+2025-11-19,D71184,Line 1,DS,Power interruption,155
+2025-08-24,D62257,Line 3,AS,Machine breakdown,5
+2025-01-21,D41911,Line 2,NS,Changeover delay,-33
+2025-04-14,D99332,Line 3,DS,Material shortage,101
+2025-04-08,D93932,Line 2,DS,Maintenance,9
+2026-01-03,D70745,Line 4,AS,Power interruption,95
+2026-03-30,D62961,Line 2,DS,Maintenance,183
+2025-06-08,D62210,Line 2,AS,Cleaning,188
+2026-02-04,D54409,Line 4,NS,Power interruption,213
+2026-01-10,D60947,Line 1,DS,Cleaning,42
+2025-07-27,D89157,Line 4,AS,Cleaning,212
+2026-03-20,D84698,Line 1,AS,Machine breakdown,187
+2025-08-08,D26283,Line 1,DS,Cleaning,156
+2025-07-20,D86035,Line 4,NS,Machine breakdown,186
+2025-01-02,D38532,Line 1,AS,Changeover delay,222
+2025-11-16,D29831,Line 1,AS,Power interruption,218
+2026-02-04,D71345,Line 3,AS,Machine breakdown,45
+2025-09-15,D88289,Line 1,DS,Cleaning,90
+2025-12-19,D95205,Line 3,DS,Material shortage,30
+2025-12-25,D44416,Line 1,AS,Sensor fault,56
+2025-08-26,D23552,Line 3,AS,Maintenance,202
+2025-05-19,D78589,Line 4,DS,Power interruption,8
+2025-06-14,D58595,Line 2,DS,Changeover delay,187
+2025-06-30,D56775,Line 4,DS,Operator shortage,213
+2025-11-28,D20299,Line 2,AS,Sensor fault,18
+2025-05-18,D86976,Line 2,DS,Operator shortage,212
+2025-06-27,D53894,Line 3,DS,Power interruption,205
+2025-02-03,D64765,Line 1,DS,Operator shortage,135
+2026-01-04,D98510,Line 2,DS,Sensor fault,176
+2025-03-04,D19525,Line 1,DS,Sensor fault,29
+2025-01-28,D96198,Line 4,AS,Changeover delay,167
+2025-01-05,D53389,Line 3,NS,Operator shortage,17
+2026-02-12,D84195,Line 1,DS,Material shortage,240
+2025-07-12,D49154,Line 1,DS,Maintenance,30
+2025-05-17,D45352,Line 2,AS,Maintenance,93
+2025-07-05,D35038,Line 1,NS,Sensor fault,140
+2025-01-16,D46878,Line 2,NS,Cleaning,96
+2025-12-04,D49818,Line 3,NS,Maintenance,240
+2025-09-11,D35474,Line 3,DS,Material shortage,225
+2025-10-23,D38306,Line 1,NS,Changeover delay,97
+2025-09-05,D91785,L1,NS,Material shortage,69
+2025-07-26,D51821,Line 4,DS,Machine breakdown,12
+2025-10-11,D40807,Line 4,AS,Sensor fault,87
+2025-03-08,D79242,Line 1,DS,Material shortage,204
+2025-11-09,D27851,Line 3,AS,Maintenance,31
+2025-09-04,D60977,Line 4,AS,Material shortage,184
+2025-08-10,D57403,Line1,AS,Sensor fault,79
+2025-06-02,D91558,Line 2,AS,Maintenance,133
+2026-01-29,D75601,Line 1,DS,Sensor fault,92
+2025-10-28,D86990,Line 1,NS,Changeover delay,136
+2025-06-11,D97392,Line 4,AS,Machine breakdown,54
+2026-03-14,D93931,Line 1,DS,Material shortage,69
+2025-03-24,D71309,Line 2,DS,Cleaning,9
+2025-05-06,D10244,Line 1,DS,Operator shortage,151
+2025-04-16,D44933,Line 1,DS,Changeover delay,127
+2025-06-26,D91518,Line 1,NS,Material shortage,70
+2025-08-17,D99731,Line 4,NS,Changeover delay,86
+2026-01-20,D64766,Line 3,AS,Machine breakdown,110
+2026-03-17,D92010,Line 3,AS,Material shortage,26
+2025-03-05,D27879,Line 2,DS,Material shortage,127
+2025-01-27,D68224,Line 4,NS,Sensor fault,74
+2025-09-15,D94546,Line 2,DS,Sensor fault,156
+2025-05-04,D51070,Line 4,NS,Cleaning,209
+2025-12-14,D69942,Line 2,NS,Material shortage,87
+2025-11-01,D55165,Line 4,NS,Maintenance,78
+2025-07-26,D26987,Line 4,AS,Power interruption,27
+2025-03-18,D46839,Line 2,DS,Changeover delay,69
+2025-06-16,D10303,Line 3,DS,Machine breakdown,59
+2025-06-16,D11058,Line 2,AS,Power interruption,221
+2025-03-27,D88936,Line 2,NS,Maintenance,123
+2025-06-19,D12071,Line 1,NS,Power interruption,107
+2026-03-13,D40980,Line 4,DS,Machine breakdown,121
+2025-06-04,D66986,Line 1,DS,Material shortage,133
+2025-09-13,D59003,Line 1,DS,Changeover delay,73
+2025-05-10,D24089,line 1,AS,Operator shortage,227
+2025-12-19,D42303,Line 1,NS,Machine breakdown,149
+2025-01-05,D37385,Line 1,DS,Maintenance,8
+2025-07-22,D28018,Line 2,NS,Machine breakdown,30
+2025-12-27,D63282,Line 4,DS,Sensor fault,146
+2025-10-20,D33420,Line 1,DS,Material shortage,170
+2025-11-26,D78847,Line 4,NS,Material shortage,42
+2026-03-15,D75176,Line 3,DS,Material shortage,30
+2025-05-05,D46049,Line 2,NS,Cleaning,78
+2025-10-31,D44155,Line 4,DS,Operator shortage,78
+2026-03-18,D56503,Line 2,AS,Machine breakdown,112
+2025-03-29,D21820,Line 2,AS,Maintenance,162
+2026-03-29,D37476,Line 4,DS,Changeover delay,239
+2025-07-06,D95468,Line 4,DS,Sensor fault,221
+2026-01-10,D56070,Line 4,NS,Maintenance,197
+2026-03-16,D26094,Line 2,DS,Changeover delay,48
+2025-05-29,D27400,Line 3,AS,Cleaning,178
+2025-12-06,D45462,Line 1,AS,Power interruption,200
+2025-02-18,D16411,Line 2,NS,Material shortage,18
+2025-07-21,D38416,Line 4,DS,Machine breakdown,216
+2025-02-17,D40195,Line 2,DS,Machine breakdown,34
+2025-01-18,D28877,Line 2,DS,Machine breakdown,141
+2025-08-15,D65947,Line1,DS,Power interruption,146
+2025-10-27,D43688,Line1,AS,Power interruption,224
+2025-09-23,D20500,Line 3,DS,Changeover delay,100
+2025-11-01,D67176,Line 3,DS,Material shortage,163
+2025-05-06,D57895,Line 2,DS,Machine breakdown,231
+2025-11-24,D84398,Line 1,AS,Cleaning,8
+2025-09-03,D29579,Line1,DS,Changeover delay,62
+2026-03-24,D45918,Line 2,DS,Changeover delay,26
+2025-04-25,D52869,Line 4,DS,Operator shortage,114
+2025-07-24,D92741,Line 2,DS,Cleaning,205
+2025-09-02,D65499,Line 3,NS,Maintenance,99
+2025-05-15,D36351,Line 1,NS,Maintenance,29
+2025-10-17,D25692,Line 3,AS,Machine breakdown,48
+2026-01-01,D96101,Line 2,NS,Power interruption,71
+2026-02-04,D19690,Line 4,DS,Power interruption,11
+2026-03-21,D26622,Line 2,AS,Sensor fault,215
+2025-01-18,D76205,Line 4,DS,Changeover delay,209
+2026-03-16,D42797,Line 3,DS,Changeover delay,158
+2025-02-05,D87562,Line 3,AS,Cleaning,148
+2025-04-23,D25440,Line 1,DS,Maintenance,34
+2025-06-30,D49999,Line 4,DS,Maintenance,70
+2025-10-24,D99620,Line 4,NS,Operator shortage,63
+2025-10-15,D81214,Line 3,DS,Maintenance,172
+2025-12-28,D88490,Line 4,AS,Sensor fault,83
+2026-02-26,D40892,Line 2,AS,Operator shortage,78
+2025-11-28,D27474,Line 3,DS,Maintenance,130
+2025-01-18,D48378,Line 3,DS,Maintenance,238
+2026-02-06,D84726,Line 1,DS,Machine breakdown,15
+2025-07-12,D86560,Line 3,DS,Operator shortage,76
+2026-01-11,D23222,Line 4,DS,Sensor fault,112
+2025-07-29,D92340,Line 1,NS,Sensor fault,126
+2025-10-09,D93615,Line 1,AS,Cleaning,127
+2026-03-15,D68857,Line 4,AS,Sensor fault,208
+2025-09-10,D16523,Line 3,NS,Operator shortage,143
+2025-04-30,D56587,Line 4,DS,Cleaning,146
+2025-09-18,D72606,Line 2,DS,Cleaning,159
+2025-04-12,D54069,Line 2,NS,Cleaning,-27
+2026-03-21,D10574,Line 4,AS,Changeover delay,56
+2025-08-24,D63963,Line 2,DS,Material shortage,71
+2025-03-28,D64924,Line 1,DS,Sensor fault,135
+2025-11-28,D54190,Line 1,AS,Operator shortage,54
+2025-02-26,D25274,Line 1,DS,Changeover delay,204
+2025-12-01,D30072,Line 3,DS,Power interruption,137
+2025-09-04,D50360,line 1,AS,Material shortage,208
+2025-01-09,D64938,Line 4,AS,Cleaning,154
+2025-12-06,D95113,Line 2,DS,Cleaning,6
+2026-03-03,D93327,Line 4,DS,Operator shortage,105
+2025-03-22,D19029,Line 1,DS,Operator shortage,57
+2025-09-27,D93728,Line 4,DS,Power interruption,130
+2025-04-10,D68613,Line 4,DS,Material shortage,180
+2025-01-06,D48750,Line 3,AS,Sensor fault,30
+2026-02-04,D78991,Line 1,AS,Operator shortage,41
+2025-03-20,D44104,Line 1,DS,Sensor fault,81
+2025-12-04,D18256,Line 4,DS,Operator shortage,115
+2025-06-11,D78204,Line 4,DS,Operator shortage,212
+2025-06-14,D80240,Line 3,NS,Changeover delay,170
+2026-03-09,D67710,Line 1,DS,Operator shortage,218
+2026-02-21,D92313,Line 3,AS,Machine breakdown,48
+2025-11-21,D17125,Line 2,AS,Changeover delay,160
+2026-01-16,D81231,Line 3,AS,Power interruption,68
+2025-08-31,D46325,Line 3,DS,Operator shortage,23
+2025-09-09,D88976,Line 1,AS,Sensor fault,153
+2025-06-15,D23377,Line 3,AS,Machine breakdown,172
+2025-07-02,D26179,Line 2,DS,Changeover delay,134
+2025-08-04,D48485,Line 1,DS,Machine breakdown,208
+2025-12-18,D99644,Line 1,NS,Power interruption,61
+2026-01-02,D32157,Line 4,NS,Machine breakdown,163
+2025-04-25,D23872,Line 1,DS,Sensor fault,172
+2025-12-08,D81506,Line 2,NS,Material shortage,182
+2025-12-26,D94847,L1,DS,Power interruption,210
+2025-06-23,D62220,Line 4,AS,Changeover delay,98
+2025-12-14,D34015,Line 3,DS,Sensor fault,204
+2025-04-20,D97849,Line 4,DS,Maintenance,88
+2025-02-15,D94913,Line 1,NS,Operator shortage,143
+2025-12-28,D87223,Line 2,NS,Sensor fault,149
+2025-12-08,D90252,Line 3,DS,Operator shortage,191
+2025-11-23,D59038,Line 1,DS,Machine breakdown,131
+2026-02-03,D78097,Line 1,DS,Changeover delay,211
+2025-05-10,D90384,Line 2,DS,Changeover delay,204
+2026-03-10,D63696,Line 1,DS,Cleaning,103
+2025-10-23,D32845,Line 2,DS,Maintenance,80
+2026-01-18,D59433,Line 2,DS,Power interruption,143
+2025-03-30,D45524,Line 3,AS,Sensor fault,93
+2026-01-26,D80284,Line 2,DS,Machine breakdown,113
+2025-10-10,D88818,Line 2,NS,Machine breakdown,238
+2025-04-11,D19189,Line 3,DS,Sensor fault,87
+2026-02-26,D27643,Line 2,AS,Operator shortage,21
+2025-10-23,D36933,Line 2,DS,Material shortage,141
+2026-01-03,D96663,Line 3,DS,Material shortage,61
+2025-02-18,D54087,Line 1,DS,Operator shortage,27
+2025-04-27,D65476,Line 1,DS,Machine breakdown,164
+2025-01-08,D42489,Line 4,DS,Machine breakdown,8
+2025-05-29,D99480,Line 3,AS,Maintenance,14
+2025-12-11,D40105,Line 4,AS,Maintenance,37
+2025-06-13,D14634,Line 1,DS,Maintenance,128
+2025-11-18,D35521,Line 2,DS,Operator shortage,175
+2026-03-30,D16652,Line 1,NS,Cleaning,86
+2025-02-14,D96509,Line 2,AS,Power interruption,80
+2025-06-18,D75142,Line 4,NS,Machine breakdown,118
+2026-03-26,D10338,Line 3,AS,Changeover delay,82
+2025-09-06,D23042,Line 2,DS,Maintenance,139
+2026-02-12,D95379,Line 2,AS,Maintenance,117
+2025-10-02,D19858,Line 1,DS,Sensor fault,164
+2025-12-18,D66762,Line 1,DS,Material shortage,206
+2025-06-09,D50953,Line 4,DS,Material shortage,21
+2026-02-18,D38671,Line 1,NS,Sensor fault,14
+2026-02-28,D85549,Line 3,DS,Operator shortage,134
+2025-08-29,D50095,Line 4,DS,Sensor fault,82
+2025-06-26,D81261,Line 1,AS,Operator shortage,219
+2025-12-25,D91785,Line 1,AS,Material shortage,65
+2025-09-18,D83449,Line 3,AS,Operator shortage,171
+2025-08-10,D14213,Line 3,DS,Material shortage,232
+2025-08-27,D72724,Line 4,AS,Sensor fault,229
+2025-04-14,D44072,Line 3,AS,Power interruption,6
+2025-06-01,D82911,Line 3,AS,Machine breakdown,161
+2025-04-24,D91819,Line 4,DS,Cleaning,188
+2025-09-03,D18651,Line 3,DS,Material shortage,120
+2025-08-07,D52364,Line 4,DS,Changeover delay,171
+2025-10-16,D25393,Line 4,NS,Changeover delay,136
+2025-04-14,D34764,Line 1,AS,Maintenance,226
+2025-03-26,D46580,Line 2,AS,Maintenance,107
+2025-05-09,D57207,Line 4,NS,Sensor fault,208
+2025-11-08,D89244,Line 2,AS,Maintenance,151
+2025-01-23,D92131,Line 4,DS,Machine breakdown,179
+2025-07-04,D85342,Line 3,DS,Maintenance,150
+2026-01-03,D41831,Line 1,DS,Operator shortage,10
+2026-01-29,D90604,Line 1,NS,Operator shortage,239
+2025-08-16,D32876,Line 4,AS,Changeover delay,8
+2025-06-24,D25114,Line 1,DS,Material shortage,215
+2025-08-23,D46872,Line 1,AS,Material shortage,191
+2025-03-28,D60700,Line 4,DS,Power interruption,121
+2026-01-13,D93378,Line 1,AS,Material shortage,235
+2026-03-10,D39088,Line 2,AS,Operator shortage,182
+2025-10-30,D69751,Line 1,DS,Material shortage,135
+2025-01-07,D41594,Line 4,DS,Power interruption,34
+2025-09-04,D94218,Line 1,DS,Sensor fault,45
+2025-10-16,D53816,Line 2,DS,Maintenance,42
+2026-02-01,D63550,Line 3,AS,Cleaning,116
+2025-11-24,D64240,Line 3,DS,Material shortage,42
+2025-01-20,D61041,Line 3,NS,Cleaning,104
+2026-02-10,D67586,Line 4,NS,Power interruption,65
+2025-01-08,D69721,Line 1,AS,Material shortage,80
+2025-02-26,D64067,Line 3,DS,Cleaning,27
+2025-05-12,D94246,Line 3,DS,Cleaning,66
+2025-05-15,D56499,Line 2,NS,Material shortage,224
+2025-06-15,D19873,Line 2,NS,Changeover delay,144
+2025-05-29,D78404,Line 3,NS,Sensor fault,92
+2025-08-05,D82852,Line 1,DS,Sensor fault,6
+2025-11-12,D13316,Line 4,AS,Material shortage,166
+2025-09-05,D76573,Line 4,NS,Maintenance,24
+2025-11-28,D91150,Line 2,NS,Operator shortage,149
+2025-02-18,D49033,Line 3,AS,Machine breakdown,69
+2025-05-27,D65545,Line 4,NS,Power interruption,171
+2026-03-25,D96834,Line 2,DS,Sensor fault,68
+2025-05-31,D28927,Line 2,NS,Machine breakdown,205
+2025-04-30,D37632,line 1,DS,Machine breakdown,162
+2026-03-27,D75227,Line 4,AS,Material shortage,212
+2025-06-25,D36380,Line 1,DS,Sensor fault,158
+2025-07-24,D50595,Line 3,DS,Changeover delay,73
+2025-11-14,D41218,Line 3,NS,Sensor fault,97
+2026-02-19,D25871,Line 4,DS,Sensor fault,220
+2025-09-29,D87405,Line 1,DS,Material shortage,94
+2025-05-14,D55169,Line 3,DS,Changeover delay,54
+2025-08-03,D90406,Line 1,AS,Machine breakdown,209
+2025-07-19,D13122,Line 2,DS,Maintenance,81
+2025-09-16,D30985,Line 3,DS,Changeover delay,64
+2026-01-10,D56751,Line 4,NS,Operator shortage,145
+2025-03-20,D77498,Line 4,DS,Maintenance,14
+2025-04-03,D47689,Line 1,DS,Changeover delay,54
+2025-03-29,D35888,Line 1,DS,Power interruption,27
+2025-12-29,D60702,Line 3,DS,Sensor fault,133
+2025-11-18,D46282,Line 4,DS,Sensor fault,75
+2025-11-30,D79415,Line 4,AS,Maintenance,151
+2025-12-07,D20819,Line 2,AS,Operator shortage,118
+2026-02-10,D84520,Line 4,AS,Machine breakdown,197
+2025-02-17,D25319,Line 1,AS,Machine breakdown,194
+2026-02-07,D83063,Line 4,AS,Maintenance,180
+2025-10-30,D66276,Line 2,AS,Cleaning,25
+2025-04-16,D70300,Line 4,DS,Changeover delay,30
+2025-04-27,D34290,Line 2,NS,Sensor fault,192
+2025-11-09,D65713,Line 2,AS,Machine breakdown,119
+2025-07-12,D13991,Line 1,NS,Sensor fault,88
+2026-02-15,D52041,Line 1,AS,Power interruption,229
+2026-01-27,D77603,Line 3,AS,Changeover delay,81
+2025-02-27,D48347,Line 2,DS,Maintenance,58
+2025-09-25,D91481,Line 3,DS,Changeover delay,177
+2025-07-27,D25494,Line 4,DS,Maintenance,88
+2026-02-11,D93775,Line 2,AS,Operator shortage,51
+2025-11-27,D50904,Line 2,DS,Changeover delay,46
+2026-02-10,D80581,Line 4,DS,Maintenance,141
+2025-12-04,D79936,Line 4,NS,Material shortage,163
+2026-03-18,D68715,Line 1,DS,Cleaning,73
+2025-05-14,D21554,Line 4,AS,Sensor fault,11
+2025-05-02,D43902,Line 1,DS,Sensor fault,193
+2025-01-17,D37652,Line 4,AS,Changeover delay,153
+2026-03-24,D71790,Line 4,DS,Material shortage,21
+2025-12-04,D98842,Line 2,DS,Sensor fault,105
+2025-01-09,D24621,Line 3,AS,Machine breakdown,240
+2026-03-03,D81914,Line 3,NS,Material shortage,55
+2025-09-19,D73030,Line 1,AS,Maintenance,103
+2025-01-30,D28858,Line 4,NS,Cleaning,167
+2025-02-23,D90693,Line 2,DS,Material shortage,89
+2026-01-13,D25828,Line 3,DS,Material shortage,193
+2025-08-11,D18935,Line 1,AS,Sensor fault,124
+2025-12-14,D68418,Line 4,NS,Cleaning,189
+2025-09-21,D79428,Line 2,NS,Machine breakdown,175
+2026-03-28,D14518,Line 1,DS,Machine breakdown,172
+2025-04-22,D65564,Line 4,DS,Material shortage,78
+2025-10-13,D90488,Line 3,AS,Changeover delay,149
+2025-02-07,D24480,Line 3,AS,Sensor fault,126
+2025-09-28,D82434,Line 4,DS,Maintenance,57
+2025-10-12,D72293,Line 1,AS,Changeover delay,36
+2025-01-08,D14475,Line 1,NS,Cleaning,63
+2025-09-25,D34085,Line 1,DS,Power interruption,228
+2026-02-02,D79400,Line 1,AS,Power interruption,144
+2025-03-22,D49503,line 1,NS,Operator shortage,143
+2025-03-10,D95518,Line 1,DS,Machine breakdown,90
+2025-12-01,D61898,Line 3,AS,Changeover delay,48
+2025-11-14,D59037,L1,DS,Material shortage,218
+2026-01-13,D17232,Line 4,NS,Sensor fault,221
+2025-02-17,D97100,Line 3,NS,Cleaning,61
+2025-07-26,D94216,Line 4,AS,Material shortage,33
+2025-08-17,D67371,Line 3,AS,Changeover delay,240
+2026-01-01,D45316,Line 1,DS,Cleaning,213
+2026-03-22,D28219,Line 3,AS,Power interruption,133
+2025-05-16,D49130,Line 3,NS,Maintenance,219
+2025-08-31,D53711,Line 2,DS,Operator shortage,234
+2025-01-28,D80357,Line 3,NS,Material shortage,22
+2025-11-13,D57470,Line 1,DS,Material shortage,236
+2025-02-23,D52992,Line 2,DS,Maintenance,108
+2025-03-26,D86085,Line 2,AS,Machine breakdown,42
+2026-01-21,D27903,Line 1,NS,Operator shortage,189
+2026-02-20,D57420,Line 2,DS,Sensor fault,188
+2025-01-10,D77947,Line 4,AS,Changeover delay,117
+2025-12-30,D91190,Line 2,AS,Cleaning,144
+2025-12-02,D68807,Line 3,AS,Power interruption,213
+2025-07-30,D79967,Line 3,AS,Operator shortage,9
+2025-09-17,D72726,Line 4,DS,Cleaning,21
+2025-07-18,D33913,Line 3,DS,Material shortage,190
+2025-01-10,D31810,Line 2,AS,Material shortage,12
+2025-10-19,D70609,Line 3,NS,Power interruption,179
+2025-04-04,D34694,Line 1,AS,Operator shortage,63
+2026-02-10,D13086,Line 3,AS,Machine breakdown,204
+2026-02-12,D47814,Line 1,DS,Changeover delay,231
+2025-07-31,D13614,Line 3,AS,Power interruption,179
+2025-04-04,D39650,Line 4,DS,Machine breakdown,210
+2025-05-21,D62645,Line 1,DS,Power interruption,41
+2026-02-14,D94921,Line 1,AS,Changeover delay,51
+2025-07-17,D20674,Line 1,DS,Sensor fault,66
+2025-12-28,D57592,Line 1,NS,Machine breakdown,114
+2025-11-03,D22081,Line 2,AS,Maintenance,149
+2025-09-12,D85686,Line 3,DS,Maintenance,143
+2025-12-01,D12071,Line 4,DS,Maintenance,-39
+2025-08-18,D11435,Line 2,DS,Power interruption,186
+2025-05-06,D21999,Line 1,DS,Maintenance,78
+2026-03-31,D79968,Line 2,DS,Sensor fault,-36
+2025-02-21,D49350,Line 1,NS,Maintenance,81
+2025-02-14,D18003,Line 2,AS,Changeover delay,126
+2026-02-07,D14512,Line 2,NS,Sensor fault,51
+2025-06-12,D73394,Line 4,DS,Power interruption,15
+2025-05-30,D93707,Line 1,DS,Operator shortage,173
+2026-01-21,D84139,Line 2,NS,Sensor fault,88
+2025-02-04,D27360,Line 1,DS,Sensor fault,163
+2025-06-23,D38764,Line 3,DS,Maintenance,90
+2025-12-29,D97732,Line 4,DS,Material shortage,15
+2026-03-27,D26704,Line 1,AS,Changeover delay,180
+2025-11-29,D98891,Line 1,DS,Changeover delay,110
+2025-11-29,D59509,Line 1,AS,Sensor fault,159
+2025-12-23,D23361,Line 2,NS,Sensor fault,177
+2025-02-06,D51868,Line 3,AS,Changeover delay,75
+2026-03-26,D57368,Line 1,AS,Changeover delay,129
+2025-07-19,D82089,Line 4,NS,Cleaning,202
+2025-08-21,D99591,Line 3,DS,Material shortage,27
+2025-06-23,D73216,Line 3,DS,Maintenance,40
+2025-01-10,D47605,Line 3,AS,Changeover delay,79
+2025-01-09,D43529,Line 1,NS,Operator shortage,90
+2026-02-26,D12804,Line 4,DS,Maintenance,70
+2026-01-13,D59576,Line 4,AS,Machine breakdown,178
+2025-12-20,D47164,Line 2,NS,Machine breakdown,127
+2026-02-19,D74436,Line 2,DS,Changeover delay,214
+2025-03-23,D49259,Line 1,NS,Operator shortage,136
+2025-06-24,D71029,Line 1,DS,Maintenance,208
+2025-08-28,D81855,Line 3,DS,Changeover delay,69
+2025-02-12,D62568,Line 4,AS,Sensor fault,150
+2025-01-04,D78050,Line 2,DS,Power interruption,144
+2025-10-02,D79668,Line 1,AS,Changeover delay,52
+2025-11-16,D23157,Line 4,DS,Sensor fault,134
+2025-08-01,D38712,Line1,AS,Material shortage,145
+2025-07-26,D22405,Line 4,NS,Changeover delay,101
+2025-10-29,D60557,Line 1,NS,Material shortage,20
+2026-01-20,D41950,Line 3,DS,Material shortage,163
+2025-04-29,D52103,Line 3,DS,Maintenance,133
+2025-10-09,D25439,Line 4,DS,Sensor fault,164
+2025-12-29,D12570,Line 2,DS,Changeover delay,93
+2025-03-28,D40301,Line 4,DS,Sensor fault,166
+2025-02-20,D62580,Line 1,DS,Power interruption,121
+2025-04-08,D89437,Line 4,DS,Machine breakdown,135
+2025-03-04,D59809,Line 2,NS,Changeover delay,-23
+2026-03-06,D10412,Line 1,DS,Operator shortage,108
+2025-02-09,D59665,Line 1,AS,Power interruption,191
+2025-03-31,D73203,Line 3,DS,Sensor fault,151
+2025-10-16,D22050,Line 1,DS,Maintenance,187
+2025-10-28,D14085,Line 4,NS,Changeover delay,9
+2026-03-29,D69121,Line 4,NS,Cleaning,179
+2025-08-27,D86140,Line 3,DS,Sensor fault,53
+2025-11-21,D24440,Line 1,AS,Maintenance,17
+2025-11-02,D30563,Line 1,AS,Power interruption,215
+2025-10-02,D96595,Line 3,NS,Machine breakdown,221
+2026-01-12,D17616,Line 3,NS,Machine breakdown,141
+2025-01-04,D57802,Line 2,DS,Cleaning,108
+2025-02-13,D97643,Line 3,DS,Maintenance,200
+2025-02-09,D22964,Line 4,AS,Power interruption,56
+2025-10-17,D33984,line 1,AS,Material shortage,76
+2025-06-22,D56477,Line 4,DS,Material shortage,144
+2025-11-11,D19049,Line 4,AS,Material shortage,141
+2026-02-26,D55725,Line 4,DS,Machine breakdown,237
+2025-08-16,D56940,Line 2,DS,Maintenance,146
+2025-02-13,D22604,Line 4,AS,Machine breakdown,206
+2026-03-08,D98698,Line 4,DS,Maintenance,127
+2025-10-06,D60909,Line 1,DS,Maintenance,111
+2025-04-10,D63816,Line 1,DS,Power interruption,118
+2025-04-05,D28434,Line 1,DS,Sensor fault,187
+2025-06-19,D55618,Line 1,NS,Material shortage,-27
+2025-01-24,D86981,Line 1,AS,Machine breakdown,175
+2025-11-20,D35575,Line 4,NS,Sensor fault,233
+2025-06-13,D46238,Line 2,DS,Machine breakdown,85
+2025-12-09,D77592,Line 3,DS,Power interruption,86
+2026-03-16,D44029,Line 3,DS,Cleaning,236
+2025-09-08,D77118,Line 3,DS,Material shortage,25
+2025-03-31,D27975,Line 1,DS,Changeover delay,80
+2025-12-31,D45143,Line 1,AS,Maintenance,219
+2026-03-17,D28014,Line 4,DS,Material shortage,35
+2025-08-09,D51962,Line 3,DS,Cleaning,45
+2025-01-22,D84790,Line 3,DS,Sensor fault,214
+2025-11-12,D90666,Line 3,AS,Machine breakdown,143
+2025-12-10,D10969,Line 2,AS,Machine breakdown,185
+2025-04-11,D86955,Line 1,NS,Power interruption,59
+2025-07-14,D50907,Line 2,DS,Material shortage,66
+2025-05-01,D70357,Line 1,AS,Sensor fault,17
+2025-05-11,D40883,Line 1,DS,Cleaning,21
+2025-04-16,D67592,Line 1,DS,Sensor fault,194
+2025-11-24,D92478,Line 4,AS,Maintenance,195
+2025-12-12,D69793,Line1,AS,Cleaning,214
+2025-08-11,D79105,Line 3,DS,Cleaning,159
+2025-05-15,D87098,Line 2,DS,Cleaning,49
+2025-01-20,D24181,Line 4,NS,Operator shortage,29
+2025-10-15,D48533,Line 3,DS,Material shortage,35
+2025-11-29,D98137,Line 4,DS,Cleaning,110
+2026-01-04,D69063,Line 2,AS,Machine breakdown,116
+2026-01-04,D87685,Line 1,NS,Maintenance,214
+2025-11-24,D86561,Line 3,DS,Maintenance,228
+2025-01-04,D60455,Line 2,NS,Machine breakdown,36
+2025-06-04,D97888,Line 2,DS,Machine breakdown,74
+2025-07-05,D19779,Line 1,AS,Machine breakdown,111
+2026-02-09,D16782,Line 1,DS,Cleaning,123
+2025-03-25,D54382,Line 4,NS,Sensor fault,30
+2026-01-08,D10682,Line 1,AS,Power interruption,81
+2025-03-18,D14928,Line 3,DS,Changeover delay,198
+2025-08-31,D37044,Line 1,AS,Changeover delay,133
+2026-01-28,D99485,Line 4,AS,Power interruption,206
+2025-04-30,D54543,Line 2,DS,Power interruption,99
+2025-01-07,D30118,Line 2,AS,Machine breakdown,-20
+2025-08-13,D33156,Line 1,DS,Power interruption,22
+2025-12-07,D25002,Line 3,AS,Machine breakdown,157
+2025-03-15,D98207,Line 4,DS,Material shortage,50
+2025-09-12,D57717,Line 3,DS,Operator shortage,93
+2026-01-22,D68632,Line 3,DS,Maintenance,39
+2025-10-24,D21377,line 1,DS,Power interruption,57
+2025-08-15,D60872,Line 3,AS,Sensor fault,225
+2025-02-09,D28076,Line 4,NS,Maintenance,127
+2025-06-09,D11872,Line 1,DS,Machine breakdown,147
+2025-09-17,D49639,Line 3,DS,Power interruption,189
+2025-07-01,D72916,Line 1,DS,Operator shortage,63
+2025-10-26,D40198,Line 1,DS,Machine breakdown,207
+2026-01-22,D58280,Line 4,DS,Power interruption,134
+2025-03-30,D67380,Line 4,DS,Maintenance,29
+2025-10-31,D81589,L1,DS,Operator shortage,50
+2025-08-23,D93384,Line 1,DS,Changeover delay,32
+2025-01-04,D85489,Line 4,DS,Machine breakdown,85
+2025-10-21,D60477,Line 1,DS,Sensor fault,96
+2025-05-01,D21169,Line 2,DS,Sensor fault,228
+2025-02-24,D92813,Line 3,AS,Material shortage,93
+2025-01-30,D11941,Line 4,DS,Sensor fault,78
+2025-07-31,D98949,Line 1,AS,Operator shortage,178
+2025-09-21,D34065,Line 3,DS,Power interruption,61
+2025-07-09,D91338,Line 2,NS,Changeover delay,25
+2025-07-08,D20497,Line 3,DS,Material shortage,23
+2026-02-26,D73057,Line 3,DS,Sensor fault,85
+2025-01-16,D93370,Line 1,AS,Maintenance,35
+2025-09-07,D34871,Line 3,DS,Power interruption,215
+2025-03-09,D75074,Line 3,AS,Sensor fault,216
+2025-03-21,D94034,Line 2,AS,Sensor fault,125
+2025-04-09,D71819,Line 4,AS,Operator shortage,158
+2025-04-24,D73661,Line 2,DS,Power interruption,53
+2025-01-02,D59324,Line 1,AS,Machine breakdown,199
+2025-08-29,D77000,Line 4,DS,Operator shortage,5
+2025-07-17,D60113,Line 1,AS,Changeover delay,150
+2025-02-26,D40169,Line 4,DS,Sensor fault,13
+2025-04-05,D77971,Line 2,DS,Changeover delay,-8
+2025-02-17,D55196,Line1,AS,Maintenance,222
+2025-02-25,D33573,Line 1,DS,Machine breakdown,155
+2026-02-06,D18266,Line 3,DS,Machine breakdown,213
+2025-08-10,D68540,Line 3,DS,Power interruption,87
+2026-01-24,D74436,L1,DS,Cleaning,221
+2026-01-11,D29049,Line 3,AS,Material shortage,222
+2025-08-03,D26989,Line 2,AS,Sensor fault,230
+2026-01-27,D55609,Line 1,DS,Maintenance,208
+2025-08-24,D50178,Line 1,NS,Material shortage,105
+2025-07-05,D27864,Line 3,AS,Maintenance,155
+2025-06-20,D40926,Line 1,NS,Maintenance,167
+2025-05-06,D96248,Line 1,NS,Operator shortage,220
+2026-01-24,D42409,Line 1,AS,Maintenance,-5
+2025-02-06,D52775,Line 1,AS,Maintenance,102
+2025-04-18,D62265,Line 4,AS,Cleaning,82
+2025-05-07,D10924,Line 2,DS,Maintenance,205
+2025-03-24,D64597,Line 2,DS,Machine breakdown,190
+2025-05-24,D69817,Line 2,DS,Material shortage,186
+2025-07-21,D42837,Line 3,AS,Operator shortage,232
+2025-10-25,D13213,Line 3,DS,Operator shortage,65
+2025-12-12,D85620,Line 1,NS,Sensor fault,11
+2025-10-31,D13146,Line 2,NS,Machine breakdown,87
+2025-12-25,D27816,Line 1,NS,Operator shortage,121
+2025-07-14,D19309,Line 4,NS,Changeover delay,41
+2026-03-03,D97174,Line 2,AS,Operator shortage,127
+2025-01-20,D41918,Line 2,DS,Cleaning,90
+2025-02-08,D62565,Line 2,DS,Cleaning,206
+2025-09-01,D85689,Line 1,NS,Power interruption,37
+2025-09-12,D19328,Line 3,DS,Operator shortage,56
+2025-03-08,D41973,Line 3,DS,Sensor fault,94
+2025-10-01,D95721,Line 1,NS,Power interruption,37
+2025-09-20,D11337,Line 2,NS,Sensor fault,99
+2026-03-18,D55324,Line 3,NS,Material shortage,43
+2025-11-18,D82805,Line 4,AS,Material shortage,64
+2025-03-31,D22272,Line 1,DS,Material shortage,55
+2025-08-27,D16138,L1,AS,Cleaning,23
+2025-04-06,D10369,Line 4,NS,Cleaning,32
+2025-05-17,D11341,Line 1,DS,Machine breakdown,148
+2026-01-20,D55127,Line 4,DS,Cleaning,201
+2025-03-15,D86201,Line 2,AS,Operator shortage,112
+2025-07-16,D53256,Line 1,AS,Power interruption,41
+2025-04-25,D25251,Line 1,NS,Cleaning,-18
+2025-09-09,D15030,Line 2,NS,Power interruption,103
+2026-03-24,D30591,Line 3,DS,Machine breakdown,207
+2026-02-15,D51695,Line 3,AS,Maintenance,66
+2026-04-01,D40937,Line 1,DS,Power interruption,47
+2025-12-29,D42766,Line 3,NS,Operator shortage,145
+2026-01-01,D19674,Line 3,AS,Power interruption,97
+2026-02-18,D70690,Line 3,DS,Cleaning,133
+2025-08-08,D15853,Line 4,DS,Material shortage,76
+2026-02-16,D87525,Line 2,DS,Changeover delay,10
+2025-08-01,D98240,Line 3,AS,Sensor fault,233
+2026-01-20,D13216,Line 3,DS,Machine breakdown,165
+2025-10-02,D41291,Line 1,DS,Material shortage,195
+2025-06-19,D90513,Line 3,NS,Cleaning,190
+2026-01-28,D25441,Line 2,DS,Sensor fault,158
+2025-03-11,D53803,Line 3,DS,Machine breakdown,24
+2025-12-03,D67064,Line 3,AS,Operator shortage,132
+2025-03-28,D82986,Line 4,AS,Operator shortage,127
+2025-08-04,D72703,Line 2,DS,Power interruption,222
+2025-04-05,D19986,Line 2,DS,Machine breakdown,185
+2025-08-22,D41887,Line 4,DS,Power interruption,104
+2025-01-29,D48365,Line 1,DS,Changeover delay,217
+2025-05-18,D83142,Line 2,DS,Machine breakdown,182
+2025-09-01,D78018,Line 1,NS,Machine breakdown,213
+2025-12-14,D10931,Line 1,AS,Machine breakdown,127
+2025-10-15,D67847,Line 4,AS,Maintenance,206
+2025-08-10,D53714,Line 2,AS,Operator shortage,230
+2025-03-31,D25922,Line 4,NS,Cleaning,103
+2025-12-25,D64140,Line 4,NS,Changeover delay,105
+2026-01-25,D16923,Line 1,AS,Changeover delay,118
+2025-08-22,D75545,Line 1,DS,Material shortage,42
+2025-09-09,D15391,Line 3,NS,Changeover delay,113
+2026-02-27,D20805,Line 2,DS,Power interruption,152
+2025-08-30,D24897,L1,DS,Changeover delay,38
+2025-03-10,D11033,Line 4,NS,Material shortage,238
+2025-12-22,D92547,Line 1,DS,Machine breakdown,214
+2025-09-03,D99529,Line 2,NS,Power interruption,37
+2025-12-09,D79595,Line 1,AS,Cleaning,107
+2025-06-02,D88039,Line 4,DS,Power interruption,131
+2025-11-13,D25557,Line 3,DS,Cleaning,132
+2025-03-24,D88375,Line 4,DS,Maintenance,6
+2025-05-09,D51671,Line 4,NS,Cleaning,230
+2025-05-24,D76222,Line 4,DS,Cleaning,183
+2025-06-27,D49249,Line 3,NS,Operator shortage,92
+2025-11-02,D27313,Line 1,NS,Maintenance,88
+2026-02-18,D55688,Line 4,AS,Changeover delay,22
+2025-05-16,D31731,Line 3,DS,Sensor fault,52
+2025-07-13,D95992,Line 2,DS,Sensor fault,10
+2026-01-31,D67253,Line 1,DS,Changeover delay,161
+2025-03-05,D29534,Line 3,NS,Maintenance,166
+2025-07-25,D86493,Line 4,AS,Maintenance,178
+2025-06-27,D63589,Line 4,DS,Cleaning,60
+2025-04-07,D56750,Line 3,AS,Material shortage,76
+2025-03-04,D66866,Line 4,NS,Material shortage,102
+2025-07-21,D33763,Line 1,DS,Sensor fault,47
+2025-08-19,D15314,Line 1,AS,Sensor fault,174
+2025-03-12,D71968,Line 2,AS,Sensor fault,128
+2025-05-17,D67196,Line 1,DS,Maintenance,105
