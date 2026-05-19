@@ -8,10 +8,10 @@
 
 ## Why This Became a Data Cleaning Project?
 - Initially, the goal of this project was to perform Exploratory Data Analysis (EDA) and generate operational insights.
-- However, while reviewing relationships between datasets after cleaning, I identified major consistency issues between production logs and downtime register.
-- For example, the Downtime dataset recorded a production stop on **Line 1** on January 2nd, while the Production dataset showed that only **Line 3** was operating on the same date.
-- Because the datasets did not maintain reliable relational consistency, I decided not to force business analysis on potentially unreliable data.
-- Instead, the project shifted toward data cleaning, validation, and operational quality review to preserve data integrity before analysis.
+- However, I identified a major consistency issue between production logs and downtime register after datasets cleaning.
+- The Downtime dataset recorded a **Line 1** was stopped on January 2nd, while the Production dataset showed that only **Line 3** was operating on the same date.
+- Because the datasets did not maintain reliable relational consistency, I decided not to force EDA on potentially unreliable data.
+- Therefore, the project shifted toward data cleaning, validation, and operational quality review to preserve data integrity before analysis.
 <br><br>
 
 ## Repository Structure
